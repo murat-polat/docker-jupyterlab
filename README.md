@@ -23,6 +23,12 @@ Make your own docker image and push to docker registry(DockerHub)
 
 ` docker run --rm -p 8000:8000 -d <yourID>/jupyterlab:latest `
 
+Or just pull and run:
+
+` docker pull muratp/jupyterlab `
+
+` docker run --rm -p 8000:8000 -d muratp/jupyterlab  `
+
 Then go to the:
 
 http://localhost:8000 or  http://YourServerIP:8000
