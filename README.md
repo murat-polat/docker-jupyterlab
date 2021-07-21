@@ -39,6 +39,13 @@ JupyterHub admin Control Panel for add/remove JupyterLab users, start/stopp serv
 
 ![](/src/adminPanel.png)
 
+JupyterLab URL is:
+
+http://YourServerIP:8000/user/admin_user/lab
+
+or 
+
+http://YourServerIP:8000/user/common_user/lab
 
 ##### JupyterLab
 
