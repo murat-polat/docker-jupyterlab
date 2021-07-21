@@ -54,4 +54,4 @@ RUN echo 'admin_user:admin_user' | chpasswd
 RUN usermod -aG sudo admin_user
 
 
-CMD ["jupyterhub "]
+CMD ["jupyterhub"]
