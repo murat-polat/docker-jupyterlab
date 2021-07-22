@@ -33,6 +33,12 @@ Then go to the:
 
 http://localhost:8000 or  http://YourServerIP:8000
 
+Default JupyterHUb/Lab has to users, which is admin_user and common_user, password is same as user_name. For example:
+ 
+User : admin_user
+
+Password : admin_user
+
 ### How to use ?
 JupyterHub admin Control Panel for add/remove JupyterLab users, start/stopp servers and access to others common_users server and notebooks.
 ##### JupyterHub Control Panel
